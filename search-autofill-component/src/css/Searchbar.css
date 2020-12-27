@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+    background: white;
+    padding: 1rem;
+    width: 503px;
+    margin-top: -33px;
+}
+
+
+li {
+    padding: 0.5rem;
+}
+li:first-child {
+    padding-top: 2rem;
+}
+.Form {
+    width: 500px;
+    padding: 1rem;
+}
+
+li:hover {
+    background:lightslategray;
+}
+
+.persistentData {
+
+}
